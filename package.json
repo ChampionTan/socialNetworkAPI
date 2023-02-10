@@ -1,5 +1,5 @@
 {
-	"name": "socialNetworkAPI",
+	"name": "social-network-api",
 	"version": "1.0.1",
 	"description": "nosql api project",
 	"main": "index.js",
